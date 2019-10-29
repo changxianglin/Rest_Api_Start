@@ -1,0 +1,25 @@
+{
+  "name": "Rest_Api_Start",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/changxianglin/Rest_Api_Start.git"
+  },
+  "keywords": [],
+  "author": "xianglin <281532612@qq.com> (zhourong.clube)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/changxianglin/Rest_Api_Start/issues"
+  },
+  "homepage": "https://github.com/changxianglin/Rest_Api_Start#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^1.19.4"
+  }
+}
